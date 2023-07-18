@@ -1,4 +1,4 @@
-# Zombie Attack - README
+# Zombie Attack - Text Based Game
 
 ## 1. How to Play this Game?
 
